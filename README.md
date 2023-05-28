@@ -28,4 +28,4 @@ go to mongodb website create an account or login get the connection url file and
 
 if you want to populate fake data to the mongodb uncomment the following code in server/index.js run it then comment it again.
 
-![code](imgs/uncommnet.png?raw=true)
+![code](imgs/uncomment.png?raw=true)
